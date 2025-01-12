@@ -54,13 +54,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
-
+- **HTML** - Structure of the 3 webpages
+- **CSS** - Making it look nice and consistant Animation for the cards
+- **React** - Buttons to log in and to swap between pages. Also a Button to display a random bible verse
+- **Service** - Display random scripture verse (https://bible-api.com/) 
+- **DB/Login** - Store loging and score data
+- **WebSocket** - Brodcast active users
 ## 🚀 AWS deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
