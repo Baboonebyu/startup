@@ -26,9 +26,9 @@ This is the start of my temple matching game.
 Do you want to impress your friends with your knowledge about temples? Or maybe you're just confused about which temple is which. Look no farther than our temple matching game. With over 200 operating temples there is a lot to remember. So get ready to have some fun and start matching.
 
 ### Design
-![Image of login screen](https://github.com/user-attachments/assets/2c6efe65-8db1-432c-a8eb-17041c2ae53a)
-![Image of game in progress](https://github.com/user-attachments/assets/046b13d1-7553-4845-b8e8-914c9c3d9da6)
-![Image of personal high scores and comunity high scores](https://github.com/user-attachments/assets/bd67f694-56a4-4af3-a608-e7dcf9788927)
+<img src="https://github.com/user-attachments/assets/2c6efe65-8db1-432c-a8eb-17041c2ae53a" alt="Image of login screen" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/046b13d1-7553-4845-b8e8-914c9c3d9da6" alt="Image of game in progress" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/bd67f694-56a4-4af3-a608-e7dcf9788927" alt="Image of personal high scores and comunity high scores" width="400"height="400">
 
 
 
