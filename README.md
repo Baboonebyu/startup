@@ -29,7 +29,12 @@ Do you want to impress your friends with your knowledge about temples? Or maybe 
 ### Design
 
 ![Design image](https://picsum.photos/200/300)
-![IMG_20250111_204320773](https://github.com/user-attachments/assets/7a83b80a-925e-45ca-a9a8-e248ea8fdab9)
+![IMG_20250111_204315727](https://github.com/user-attachments/assets/2c6efe65-8db1-432c-a8eb-17041c2ae53a)
+![IMG_20250111_204318144](https://github.com/user-attachments/assets/046b13d1-7553-4845-b8e8-914c9c3d9da6)
+![IMG_20250111_204320773](https://github.com/user-attachments/assets/bd67f694-56a4-4af3-a608-e7dcf9788927)
+
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
