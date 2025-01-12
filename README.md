@@ -44,9 +44,11 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+-Match temples quickly to get the best time
+-Login and save your scores
+-Get on the global leaderboard
+-Replayabilty with just a click
+
 
 ### Technologies
 
