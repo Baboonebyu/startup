@@ -27,11 +27,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Do you want to impress your friends with your knowledge about temples? Or maybe you're just confused about which temple is which. Look no farther than our temple matching game. With over 200 operating temples there is a lot to remember. So get ready to have some fun and start matching.
 
 ### Design
-
-![Design image](https://picsum.photos/200/300)
-![IMG_20250111_204315727](https://github.com/user-attachments/assets/2c6efe65-8db1-432c-a8eb-17041c2ae53a)
-![IMG_20250111_204318144](https://github.com/user-attachments/assets/046b13d1-7553-4845-b8e8-914c9c3d9da6)
-![IMG_20250111_204320773](https://github.com/user-attachments/assets/bd67f694-56a4-4af3-a608-e7dcf9788927)
+![Image of login screen](https://github.com/user-attachments/assets/2c6efe65-8db1-432c-a8eb-17041c2ae53a)
+![Image of game in progress](https://github.com/user-attachments/assets/046b13d1-7553-4845-b8e8-914c9c3d9da6)
+![Image of personal high scores and comunity high scores](https://github.com/user-attachments/assets/bd67f694-56a4-4af3-a608-e7dcf9788927)
 
 
 
