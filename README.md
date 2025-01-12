@@ -1,4 +1,4 @@
-Temple Matching Game
+#Temple Matching Game
 
 [My Notes](notes.md)
 
