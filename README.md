@@ -22,13 +22,6 @@ Do you want to impress your friends with your knowledge about temples? Or maybe 
 
 Here we have the three different screens for the web app. We have a login screen acompanyed by a temple picture, where users log in or create an account. The game screen where they can practice matching temples. Finaly we have the high scores screen where they can see there top scores along with the global top scores.
 
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
-
 ### Key features
 
 * Match random temples quickly to get the best time
