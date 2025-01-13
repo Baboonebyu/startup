@@ -45,7 +45,7 @@ I am going to use the required technologies in the following ways.
 - **HTML** - Structure of the 3 webpages
 - **CSS** - Making it look nice and consistant Animation for the cards
 - **React** - Buttons to log in and to swap between pages. Also a button to display a random bible verse
-- **Service** - Authentication, retriving past scores?, 3rd-Party to display random scripture verse (https://bible-api.com/)
+- **Service** - Endpoints for authentication, and possibly retriving past scores, 3rd-Party to display random scripture verse (https://bible-api.com/)
 - **DB/Login** - Store loging and score data
 - **WebSocket** - Brodcast active users
 ## 🚀 AWS deliverable
