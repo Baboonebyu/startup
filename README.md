@@ -1,9 +1,6 @@
 # Temple Matching Game
 ## 🚀 Specification Deliverable
 
-> [!NOTE]
->  Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
-
 - [x] Proper use of Markdown in README.md
 - [x] A concise and compelling elevator pitch in your README.md
 - [x] Description of key features in your README.md
