@@ -20,9 +20,7 @@ Do you want to impress your friends with your knowledge about temples? Or maybe 
 <img src="https://github.com/user-attachments/assets/bd67f694-56a4-4af3-a608-e7dcf9788927" alt="Image of personal high scores and comunity high scores" width="400"height="400">
 
 
-
-
-Here we have the three different screens for the web app. We have a login screen, the game screen where they can practice there matching skills, and the high scores screen where they can see how well they are doing.
+Here we have the three different screens for the web app. We have a login screen acompanyed by a temple picture, where users log in or create an account. The game screen where they can practice matching temples. Finaly we have the high scores screen where they can see there top scores along with the global top scores.
 
 ```mermaid
 sequenceDiagram
@@ -33,10 +31,11 @@ sequenceDiagram
 
 ### Key features
 
--Match temples quickly to get the best time\
--Login and save your scores\
--Get on the global leaderboard\
--Replayabilty with just a click
+* Match random temples quickly to get the best time
+* Login and save your scores
+* Get on the global leaderboard
+* Replayabilty with just one click
+* Display random insprational Bible Verse
 
 
 ### Technologies
@@ -45,8 +44,8 @@ I am going to use the required technologies in the following ways.
 
 - **HTML** - Structure of the 3 webpages
 - **CSS** - Making it look nice and consistant Animation for the cards
-- **React** - Buttons to log in and to swap between pages. Also a Button to display a random bible verse
-- **Service** - Display random scripture verse (https://bible-api.com/) 
+- **React** - Buttons to log in and to swap between pages. Also a button to display a random bible verse
+- **Service** - Authentication, retriving past scores?, 3rd-Party to display random scripture verse (https://bible-api.com/)
 - **DB/Login** - Store loging and score data
 - **WebSocket** - Brodcast active users
 ## 🚀 AWS deliverable
