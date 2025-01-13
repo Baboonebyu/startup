@@ -1,25 +1,14 @@
 # Temple Matching Game
-
-[My Notes](notes.md)
-
-This is the start of my temple matching game.
-
-> [!NOTE]
->  This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
-
-> [!NOTE]
->  If you are not familiar with Markdown then you should review the [documenation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
-
 ## 🚀 Specification Deliverable
 
 > [!NOTE]
 >  Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
 
-- [ ] Proper use of Markdown in README.md
-- [ ] A concise and compelling elevator pitch in your README.md
-- [ ] Description of key features in your README.md
-- [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in your README.md.
+- [x] Proper use of Markdown in README.md
+- [x] A concise and compelling elevator pitch in your README.md
+- [x] Description of key features in your README.md
+- [x] Description of how you will use each technology
+- [x] One or more rough sketches of your application. Images must be embedded in your README.md.
 
 ### Elevator pitch
 
@@ -33,7 +22,7 @@ Do you want to impress your friends with your knowledge about temples? Or maybe 
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here we have the three different screens for the web app. We have a login screen, the game screen where they can practice there matching skills, and the high scores screen where they can see how well they are doing.
 
 ```mermaid
 sequenceDiagram
